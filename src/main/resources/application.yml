@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: api-gw
+
+server:
+  port: 7080
